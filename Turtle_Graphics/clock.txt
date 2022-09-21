@@ -1,0 +1,12 @@
+Draw Clock Design using Turtle in Python
+
+Turtle is an inbuilt module in Python. It provides drawing using a screen (cardboard) and turtle (pen). To draw something on the screen, we need to move the turtle (pen). To move turtle, there are some functions i.e forward(), backward(), etc.
+
+To draw Clock Design : 
+Following steps are used :
+
+1. Import turtle.
+2. Create Screen object and set Screen configuration.
+3. Create Turtle object and set its position and speed.
+4. Draw a dashed line and print number in circular shape.
+5. Draw center and fill color black in it
